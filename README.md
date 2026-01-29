@@ -2,7 +2,7 @@
 
 int main()
 {
-	int a, b;
+	int a;
 
 	printf("Nhap vao so nguyen a=");
 	scanf("%d", &a);
